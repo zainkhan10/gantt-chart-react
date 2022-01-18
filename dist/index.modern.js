@@ -2142,7 +2142,6 @@ const Gantt = ({
     todayColor: _todayColor,
     rtl: _rtl
   };
-  console.log("dateSetup.dates: ", dateSetup);
   const calendarProps = {
     dateSetup,
     locale: _locale,
